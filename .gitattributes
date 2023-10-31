@@ -1,0 +1,11 @@
+.git/objects/51/daa0102fea58d32c78506a2aa4c7d847d2ac99 filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostlin/lld filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-12.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-12.so filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.4/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.4/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Packages/MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz filter=lfs diff=lfs merge=lfs -text
